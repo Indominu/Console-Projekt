@@ -1,0 +1,7 @@
+C:\Users\mathi\Desktop\Ny mappe\Console Projekt\Console Projekt\bin\Debug\Console Projekt.exe.config
+C:\Users\mathi\Desktop\Ny mappe\Console Projekt\Console Projekt\bin\Debug\Console Projekt.exe
+C:\Users\mathi\Desktop\Ny mappe\Console Projekt\Console Projekt\bin\Debug\Console Projekt.pdb
+C:\Users\mathi\Desktop\Ny mappe\Console Projekt\Console Projekt\obj\Debug\Console Projekt.csprojAssemblyReference.cache
+C:\Users\mathi\Desktop\Ny mappe\Console Projekt\Console Projekt\obj\Debug\Console Projekt.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Desktop\Ny mappe\Console Projekt\Console Projekt\obj\Debug\Console Projekt.exe
+C:\Users\mathi\Desktop\Ny mappe\Console Projekt\Console Projekt\obj\Debug\Console Projekt.pdb
