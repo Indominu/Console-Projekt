@@ -116,8 +116,7 @@ namespace Console_Etape_3
             }
 
             /// <summary>
-            /// Shows the entire list
-            /// on the console
+            /// Shows the entire list on the console
             /// </summary>
             /// <param name="list"></param>
             public void PrintList(List<string> list)
